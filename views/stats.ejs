@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="HandheldFriendly" content="true">
+    <meta name="description" content="Bot Dashboard BY Kaan">
+        <meta name="title" content="Bot İsmi - Kullanıcısı">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="https://cdn.discordapp.com/emojis/851798404057399316.png?v=1" type="image/x-icon">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="public/style.css">
+    <link rel="stylesheet" href="public/gerekli.css">
+ 
+
+
+</head>
+  <body class="bg-dark text-white">  
+    
+    <nav class="navbar navbar-expand-lg navbar-dark" id="mainNav" style="background-color: #23272a;">
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          
+                       <div class="ccc">
+           <a class="nav-link" href="/"><i class="fas fa-home"></i> Ana Sayfa</a>
+
+          </div>
+ <li class="nav-item dropdown">
+              
+                                <div class="dropdown-divider"></div>
+
+		 <ul class="submenu dropdown-menu animate slideIn" data-toggle="dropdown">
+
+  	 </ul>
+	  </li>         
+    
+        </ul>
+    </div>
+
+     <% if (member) { %>
+<li class="nav-link"><a class="nav-link" href="/profil"> <%= member.username %>#<%= member.discriminator %></a></li>
+<li class="nav-link"><a class="nav-link" href="/auth/logout"> Çıkış Yap</a></li>
+          <% } else { %>
+            <li class="nav-link"><a href="/login" class="nav-link">Giriş Yap</a></li>
+          <% } %>
+
+      </div>
+    </nav>
+<br/>
+<br/>
+<br />
+<br />
+<br />
+<div class="container" color="#5555dd">
+  <div align="center" class="jumbotron">
+       <br>
+   <h3 class="hny-title mb-md-4 mb-2 text-center" color="#5555dd">
+                HİZMET SAYISI</h3>
+            <div class="row stats-con">
+                <div class="col-lg-4 col-md-6 stats_info counter_grid">
+
+                    <p class="counter"><%- bot.guilds.cache.array().length %></p>
+                    <h4>Sunucu</h4>
+                </div>
+                <div class="col-lg-4 col-md-6 stats_info counter_grid1">
+                    <p class="counter"><%- bot.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString() %></p>
+                    <h4>Kullanıcı</h4>
+                </div>
+                <div class="col-lg-4 col-md-6 stats_info counter_grid mt-md-0 mt-5">
+
+                    <p class="counter"><%- bot.channels.cache.array().length %></p>
+                    <h4>Kanal</h4>
+  </div>
+
+  <div class="wave wave1"></div>
+</main>
+
+    
+    
