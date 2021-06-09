@@ -13,6 +13,8 @@
 
 **🔜 You can activate the site by performing this result**
 
+My Youtube Channel: [**Click!**](https://youtube.com/c/kaanxd)
+
 ------------------------------------------------
 
 [**Discord Sunucum**](https://discord.gg/ZEeZ7pZCvJ)
@@ -29,6 +31,7 @@
 
 **🔜 Bu işlemleri yaptıktan sonra dashboard aktif olacaktır mutlu kullanımlar :)**
 
+Youtube Kanalım: [**Tıkla!**](https://youtube.com/c/kaanxd)
 
 
 
