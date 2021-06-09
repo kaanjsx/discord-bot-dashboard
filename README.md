@@ -13,3 +13,22 @@
 
 **🔜 You can activate the site by performing this result**
 
+------------------------------------------------
+
+[**Discord Sunucum**](https://discord.gg/ZEeZ7pZCvJ)
+
+👋 Merhaba Ben Kaan!
+
+**🌹 Bugün sizlere 3 saattir uğraştığım dashboardı paylaşıyorum!**
+
+**1️⃣ İlk olarak `conf.json`'daki gerekli bilgileri [Developer Portal](https://discord.com/developers/applications) Sitesinden Doldurun!**
+
+**2️⃣ 2.olarak `server.js`'ye gelin ve token kısmını bulup içine tokeninizi atın!**
+
+**3️⃣ 3.olarak 60.satıra gelin ve domaininizi oraya yapıştırın aynı şekilde 73.satıra gelin fakat 73 satır girişimizi sağlayacaktır bu yüzden domaininizin sonuna `/auth` eklemeyi unutmayın!**
+
+**🔜 Bu işlemleri yaptıktan sonra dashboard aktif olacaktır mutlu kullanımlar :) **
+
+
+
+
