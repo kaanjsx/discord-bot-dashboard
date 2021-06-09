@@ -40,7 +40,7 @@ passport.deserializeUser((obj, done) => {
 passport.use(new Strategy({
 	clientID: config.id,
 	clientSecret: config.secret,
-	callbackURL: 'https://das.kaanaktr.repl.co/auth', 
+	callbackURL: 'domain/auth', 
 	scope: ['identify', 'guilds'] 
 },
 (accessToken, refreshToken, profile, done) => {
@@ -57,7 +57,7 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 app.use(helmet());
-app.locals.domain = 'https://das.kaanaktr.repl.co'; // local host
+app.locals.domain = 'domain'; // local host
 const bodyParser = require('body-parser');
 const { Console } = require("console");
 app.use(bodyParser.json());
@@ -70,7 +70,7 @@ function checkAuth(req, res, next) {
 
 app.get('/login', (req, res, next) => {
 	if (req.session.backURL) {
-		req.session.backURL = 'https://das.kaanaktr.repl.co/auth';
+		req.session.backURL = 'domain/auth';
 	} else if (req.headers.referer) {
 		const parsed = url.parse(req.headers.referer);
 		if (parsed.hostname === app.locals.domain) {
