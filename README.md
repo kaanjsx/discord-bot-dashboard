@@ -27,7 +27,7 @@
 
 **3️⃣ 3.olarak 60.satıra gelin ve domaininizi oraya yapıştırın aynı şekilde 73.satıra gelin fakat 73 satır girişimizi sağlayacaktır bu yüzden domaininizin sonuna `/auth` eklemeyi unutmayın!**
 
-**🔜 Bu işlemleri yaptıktan sonra dashboard aktif olacaktır mutlu kullanımlar :) **
+**🔜 Bu işlemleri yaptıktan sonra dashboard aktif olacaktır mutlu kullanımlar :)**
 
 
 
