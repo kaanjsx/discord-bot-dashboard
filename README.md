@@ -1,5 +1,5 @@
 # Discord Bot Dashboard
-[**My Discord Server**](https://discord.gg/ZEeZ7pZCvJ)
+[**My Discord Server**](https://discord.gg/HMTHAqCTCz)
 
 👋 Hello i'm **Kaan**,
 
@@ -17,7 +17,7 @@ My Youtube Channel: [**Click!**](https://youtube.com/c/kaanxd)
 
 ------------------------------------------------
 
-[**Discord Sunucum**](https://discord.gg/ZEeZ7pZCvJ)
+[**Discord Sunucum**](https://discord.gg/HMTHAqCTCz)
 
 👋 Merhaba Ben Kaan!
 
