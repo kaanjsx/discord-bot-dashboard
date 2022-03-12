@@ -140,7 +140,7 @@ app.get('/stats', function(req, res) {
     user: client,
     member: req.user,
     title: 'Ana Sayfa', 
-    desc: 'ghost bot güzelmiş öle diolar şefersizler! qwexD' 
+    desc: 'Main Page' 
   });
 });
 
@@ -151,11 +151,10 @@ app.get('/stats', function(req, res) {
     user: client,
     member: req.user,
     title: 'Bot İnfo', 
-    desc: 'qwewqewqe kaan ab 123 kaan ab kaan ab' 
+    desc: 'Info Page' 
   });
 });
-// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ
+
 
 client.login("BOT_TOKEN")
 
-// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ// bu dashboard GHOST DEVELOPMNETE AİTTİR ÇALANI SİKERİM ELİMDEN KİMSE ALMAZ! https://discord.gg/ZEeZ7pZCvJ
